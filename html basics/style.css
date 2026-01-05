@@ -1,0 +1,45 @@
+
+* {
+  box-sizing: border-box;
+}
+body{
+    background-color: powderblue;
+}
+
+h2 {
+    color: forestgreen;
+    font-family: verdana;
+}
+h3 {
+    color: cornflowerblue;
+    font-size: 120%;
+    font-family: geneva;
+}
+header {
+  background: linear-gradient(120deg, #04AA6D, #058457);
+  color: #fff;
+  padding: 20px 20px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header p{
+
+    font-family: monospace;
+    font-weight: 300;
+}
+    
+table {
+  width: 40%;
+  border-collapse: collapse;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th, td  {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
